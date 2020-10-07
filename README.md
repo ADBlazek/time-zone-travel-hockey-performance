@@ -21,3 +21,5 @@ Although the results were significant, many factors could account for these diff
 
 In terms of recovery and training, I would consider this analysis preliminary evidence that NHL coaches and management should pay attention to the effects of time zone travel on hockey performance. Teams might consider nutritional and physical recovery measures (massage, ice baths, physical therapy, etc.) to maximize training and counteract any issues encountered by extensive travel. Perhaps additional data to include surveys about subjective measures of sleep quality, well-being, pain, etc. could add more insight and provide a complete picture of training status and recovery for each team.
 
+**Contents of this Repository:** A Jupyter notebook containing the Python code I used to perform the analyses and a slide presentation describing the experiment.
+
